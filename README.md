@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/BenGorUser/MandrillBridge.svg?branch=master)](https://travis-ci.org/BenGorUser/MandrillBridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BenGorUser/MandrillBridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BenGorUser/MandrillBridge/?branch=master)
-[![Total Downloads](https://poser.pugx.org/bengoruser/mandrill-bridge/downloads)](https://packagist.org/packages/bengor-user/mandrill-bridge/)
+[![Total Downloads](https://poser.pugx.org/bengor-user/mandrill-bridge/downloads)](https://packagist.org/packages/bengor-user/mandrill-bridge/)
 [![Latest Stable Version](https://poser.pugx.org/bengor-user/mandrill-bridge/v/stable.svg)](https://packagist.org/packages/bengor-user/mandrill-bridge/)
 [![Latest Unstable Version](https://poser.pugx.org/bengor-user/mandrill-bridge/v/unstable.svg)](https://packagist.org/packages/bengor-user/mandrill-bridge/)
 
