@@ -62,3 +62,4 @@ This library is created by:
 [4]: http://symfony.com/doc/current/contributing/code/patches.html#make-a-pull-request
 [5]: http://cs.sensiolabs.org/
 [6]: http://getcomposer.org
+[7]: https://crowdin.com/
